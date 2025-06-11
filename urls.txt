@@ -1,0 +1,5 @@
+www.google.com
+www.github.com
+www.linkedin.com
+www.chess.com
+mail.google.com
